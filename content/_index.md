@@ -8,7 +8,6 @@ sections:
   - block: hero
     id: about 
     content:
-      title: The Lab for Neuroimaging and Neuroinformatics (LNN) @ UCPH
       image:
         filename: lnn-logo.png
       text: |
