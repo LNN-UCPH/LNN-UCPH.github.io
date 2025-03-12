@@ -18,6 +18,7 @@ role: Postdoc
 # Organizations/Affiliations
 organizations:
   - name: Department of Computer Science, University of Copenhagen
+  - name: Neurobiology Research Unit, Copenhagen University Hospital Rigshospitalet
 
 website:
   - https://mwyburd.github.io/
@@ -27,6 +28,15 @@ interests:
   - Neuroimage analysis
   - Brain development
   - Topology
+
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/madeleine-wyburd-907522218/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=58_isAMAAAAJ&hl=en&oi=ao
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
