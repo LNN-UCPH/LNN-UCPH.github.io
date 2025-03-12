@@ -12,7 +12,7 @@ sections:
         filename: lnn-logo.png
       text: |
         <p>
-          The Lab for Neuroimaging and Neuroinformatics (LNN) @ UCPH focuses on leveraging advanced imaging technologies and computational methods to study the human brain. The lab integrates neuroimaging data with neuroinformatics approaches to understand brain structure, function, and connectivity. Research areas typically include the development and application of machine learning algorithms, image analysis techniques, and data integration methods to advance the field of neuroscience and improve clinical outcomes in neurology and psychiatry. The lab's work often involves interdisciplinary collaboration, bridging gaps between computational sciences and neuroscience.
+          The Lab for Neuroimaging and Neuroinformatics (LNN) @ UCPH focuses on leveraging advanced imaging technologies and computational methods to study the human brain. We integrate neuroimaging data with neuroinformatics approaches to understand brain structure, function, and connectivity. Our research areas typically include the development and application of machine learning algorithms, image analysis techniques, and data integration methods to advance the field of neuroscience and improve clinical outcomes in neurology and psychiatry. Our work often involves interdisciplinary collaboration, bridging gaps between computational sciences and neuroscience.
         </p>
 
         <h2>Interests</h2>
