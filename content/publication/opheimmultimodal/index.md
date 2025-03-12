@@ -3,7 +3,7 @@ title: 'Multimodal 7T MRI of epilepsy surgery candidates: Prospective evaluation
   impact on presurgical decisions'
 authors:
 - Giske Opheim
-- Melanie Ganz-Benjaminsen
+- Melanie Ganz
 - Patrick Fisher
 - Ulrich Lindberg
 - Mark Bitsch Vestergaard

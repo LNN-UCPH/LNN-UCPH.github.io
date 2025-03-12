@@ -4,7 +4,7 @@ title: 'Brain Networks involved in Seasonal Affective Disorder: A Neuroimaging P
 authors:
 - Martin A Nørgaard
 - Claus Svarer
-- Melanie Ganz-Benjaminsen
+- Melanie Ganz
 - Brenda McMahon
 - Patrick M Fisher
 - Nathan William Churchill

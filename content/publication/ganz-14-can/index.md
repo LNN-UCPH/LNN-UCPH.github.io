@@ -1,7 +1,7 @@
 ---
 title: Can the flipped classroom enhance student learning?
 authors:
-- Melanie Ganz-Benjaminsen
+- Melanie Ganz
 date: -01-01
 publishDate: '2025-03-12T12:55:14.664184Z'
 publication_types:
