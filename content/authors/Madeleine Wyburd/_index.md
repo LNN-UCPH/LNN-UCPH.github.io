@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Madeleine K Wyburd
+title: Maddy Wyburd
 
 # Full Name (for SEO)
 first_name: Madeleine K 
@@ -25,6 +25,8 @@ website:
 interests:
   - Machine learning
   - Neuroimage analysis
+  - Brain development
+  - Topology
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
