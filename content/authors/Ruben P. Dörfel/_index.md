@@ -10,7 +10,7 @@ last_name: Dörfel
 superuser: false
 
 # position
-position: 2
+position: 4
 
 # Role/position
 role: PhD Student

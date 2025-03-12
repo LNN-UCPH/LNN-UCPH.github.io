@@ -10,7 +10,7 @@ last_name: Wyburd
 superuser: false
 
 # position
-position: 2
+position: 3
 
 # Role/position
 role: Postdoc
