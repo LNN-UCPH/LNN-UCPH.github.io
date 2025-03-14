@@ -10,7 +10,7 @@ last_name: Wyburd
 superuser: false
 
 # position
-position: 3
+position: 2
 
 # Role/position
 role: Postdoc
@@ -47,7 +47,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Postdoctoral Fellow and PhD students
 ---
 ### Website:
 - https://mwyburd.github.io/

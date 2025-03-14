@@ -30,9 +30,8 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigator
-          - Researchers
-          - Research Support
+          - Research Scientists
+          - Postdoctoral Fellow and PhD students
           - Colaborators
           - Alumni
       sort_by: Params.position
