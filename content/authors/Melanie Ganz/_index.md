@@ -27,6 +27,9 @@ website:
 interests:
   - Machine learning
   - Neuroimage analysis
+  - Open Science
+  - Statistics
+
 
 social:
   - icon: linkedin
