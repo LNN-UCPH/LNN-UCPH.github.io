@@ -47,7 +47,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Fellow and PhD students
+  - Postdoctoral Fellows and PhD students
 ---
 ### Website:
 - https://mwyburd.github.io/
