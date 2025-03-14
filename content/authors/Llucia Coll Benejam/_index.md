@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Llucia Coll Benejam
+title: Llucia Coll
 
 # Full Name (for SEO)
 first_name: Llucia 
@@ -26,6 +26,16 @@ website:
 interests:
   - Machine learning
   - Neuroimage analysis
+  - Disease prediction
+  - Explainability
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/llucia-coll-benejam/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=LTZtYhQAAAAJ
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
