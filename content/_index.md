@@ -41,6 +41,13 @@ sections:
       show_role: true
       show_social: true
 
+  - block: projects
+    id: projects
+    content:
+      title: Ongoing projects
+      sort_by: date
+      sort_ascending: false
+
   - block: collection
     id: publications
     view: citation
