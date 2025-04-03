@@ -1,4 +1,19 @@
-<section id="{{ .id }}">
-    <pre>{{ printf "%#v" . }}</pre>
-    ...
-  </section>
+<section id="{{ .wcBlock.id }}">
+    <h2>{{ .wcBlock.content.title }}</h2>
+  
+    <div class="projects-list">
+      {{ $projects := where site.RegularPages "Section" "projects" }}
+      {{ $sorted_projects := sort $projects ".Params.position" "asc" }}
+  
+      {{ range $sorted_projects }}
+        <div class="project-item">
+          <h3>{{ .Title }}</h3>
+          <div class="project-content">
+            {{ .Content | safeHTML }}
+          </div>
+        </div>
+      {{ else }}
+        <p>No projects found.</p>
+      {{ end }}
+    </div>
+  </section>  
