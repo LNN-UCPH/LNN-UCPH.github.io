@@ -1,8 +1,16 @@
-{{ define "main" }}
-  <article class="project">
-    <h1>{{ .Title }}</h1>
-    <div class="project-content">
-      {{ .Content }}
+<section id="{{ .id }}">
+    <h2>{{ .content.title }}</h2>
+    <div class="projects">
+      {{ $projects := (where site.RegularPages "Section" "projects") }}
+      {{ $sorted_projects := sort $projects .content.sort_by .content.sort_ascending }}
+      
+      {{ range $sorted_projects }}
+        <article class="project-item">
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <div class="project-content">
+            {{ .Summary }}
+          </div>
+        </article>
+      {{ end }}
     </div>
-  </article>
-{{ end }}
+  </section>

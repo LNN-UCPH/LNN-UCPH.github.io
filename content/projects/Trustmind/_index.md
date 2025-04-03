@@ -23,5 +23,8 @@ The research project is based on a collaboration between three senior scientists
   <li>Associate Professor Katharina O'Cathair, LAW, University of Copenhagen</li>
 </ul>
 
-### Website:
-- [lundbeckfonden.com](https://lundbeckfonden.com/news/120-million-dkk-interdisciplinary-brain-research/melanie-ganz-benjaminsen)
+<h3>Website</h3>
+<ul>
+  <li><a href="https://lundbeckfonden.com/news/120-million-dkk-interdisciplinary-brain-research/melanie-ganz-benjaminsen">https://lundbeckfonden.com/news/120-million-dkk-interdisciplinary-brain-research/melanie-ganz-benjaminsen</a></li>
+  </ul>
+
