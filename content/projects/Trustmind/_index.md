@@ -26,6 +26,6 @@ The research project is based on a collaboration between three senior scientists
 
 <h3>Website</h3>
 <ul>
-  <li><a href="https://lundbeckfonden.com/news/120-million-dkk-interdisciplinary-brain-research/melanie-ganz-benjaminsen">https://lundbeckfonden.com/news/120-million-dkk-interdisciplinary-brain-research/melanie-ganz-benjaminsen</a></li>
-  </ul>
-
+  <li><a href="https://lundbeckfonden.com/news/120-million-dkk-interdisciplinary-brain-research/melanie-ganz-benjaminsen">https://lundbeckfonden.com/news/120-million-dkk-interdisciplinary-brain-research/melanie-ganz-benjaminsen</a>
+  </li>
+</ul>
