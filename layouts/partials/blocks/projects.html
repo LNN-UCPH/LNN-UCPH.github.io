@@ -1,23 +1,4 @@
 <section id="{{ .id }}">
-    {{ with .content.title }}
-      <h2>{{ . }}</h2>
-    {{ end }}
-  
-    <div class="projects-list">
-      {{ $projects := where site.RegularPages "Section" "projects" }}
-      {{ $sorted_projects := sort $projects ".Params.position" "asc" }}
-  
-      {{ if gt (len $sorted_projects) 0 }}
-        {{ range $sorted_projects }}
-          <div class="project-item">
-            <h3>{{ .Title }}</h3>
-            <div class="project-content">
-              {{ .Content | safeHTML }}
-            </div>
-          </div>
-        {{ end }}
-      {{ else }}
-        <p>No projects found.</p>
-      {{ end }}
-    </div>
-  </section>  
+    <pre>{{ printf "%#v" . }}</pre>
+    ...
+  </section>
