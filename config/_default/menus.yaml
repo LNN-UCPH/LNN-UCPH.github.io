@@ -11,7 +11,7 @@ main:
     url: "/#people"
     weight: 2
     id: People
-  - name: projects
+  - name: Projects
     url: "/#projects"
     weight: 3
   - name: Publications

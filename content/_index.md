@@ -44,7 +44,7 @@ sections:
   - block: projects
     id: projects
     content:
-      title: Projects
+      title: Ongoing projects
       sort_by: Params.position
       sort_ascending: true
 
