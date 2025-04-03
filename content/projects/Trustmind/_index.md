@@ -1,6 +1,7 @@
 ---
 title: "Trustmind"
 position: 1
+type: "project"
 ---
 
 <p>
