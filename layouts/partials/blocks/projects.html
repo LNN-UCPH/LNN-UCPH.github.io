@@ -1,5 +1,8 @@
 <section id="{{ .id }}">
-    <h2>{{ .content.title }}</h2>
+    {{ with .content.title }}
+      <h2>{{ . }}</h2>
+    {{ end }}
+  
     <div class="projects-list">
       {{ $projects := where site.RegularPages "Section" "projects" }}
       {{ $sorted_projects := sort $projects ".Params.position" "asc" }}
