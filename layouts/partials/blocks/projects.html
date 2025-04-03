@@ -1,7 +1,7 @@
 <section id="{{ .id }}">
     <h2>{{ .content.title }}</h2>
     <div class="projects-list">
-      {{ $projects := where site.RegularPages "Section" "projects" }}
+      {{ $projects := where site.Sections "Section" "projects" }}
       {{ $sorted_projects := sort $projects ".Params.position" "asc" }}
       
       {{ if gt (len $sorted_projects) 0 }}
@@ -17,4 +17,4 @@
         <p>No projects found.</p>
       {{ end }}
     </div>
-  </section>
+  </section>  
