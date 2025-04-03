@@ -3,7 +3,7 @@
     <div class="projects-list">
       {{ $projects := where site.RegularPages "Section" "projects" }}
       {{ $sorted_projects := sort $projects ".Params.position" "asc" }}
-      
+  
       {{ if gt (len $sorted_projects) 0 }}
         {{ range $sorted_projects }}
           <div class="project-item">
