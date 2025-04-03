@@ -1,12 +1,14 @@
 <section id="{{ .wcBlock.id }}">
-    <h2>{{ .wcBlock.content.title }}</h2>
+    <div class="container text-center mb-5">
+      <h1 class="display-4">{{ .wcBlock.content.title }}</h1>
+    </div>
   
-    <div class="projects-list">
+    <div class="container projects-list">
       {{ $projects := where site.RegularPages "Section" "projects" }}
       {{ $sorted_projects := sort $projects ".Params.position" "asc" }}
   
       {{ range $sorted_projects }}
-        <div class="project-item">
+        <div class="project-item mb-5">
           <h3>{{ .Title }}</h3>
           <div class="project-content">
             {{ .Content | safeHTML }}
