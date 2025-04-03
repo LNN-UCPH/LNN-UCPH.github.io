@@ -45,8 +45,8 @@ sections:
     id: projects
     content:
       title: Ongoing projects
-      sort_by: date
-      sort_ascending: false
+      sort_by: Params.position
+      sort_ascending: true
 
   - block: collection
     id: publications
