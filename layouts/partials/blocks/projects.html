@@ -1,15 +1,8 @@
 {{ define "main" }}
   <article class="project">
     <h1>{{ .Title }}</h1>
-
-    <!-- Directly render markdown/HTML content -->
     <div class="project-content">
       {{ .Content }}
     </div>
-
-    <!-- Example of accessing position if needed -->
-    {{ with .Params.position }}
-      <p class="project-position">Position: {{ . }}</p>
-    {{ end }}
   </article>
 {{ end }}
