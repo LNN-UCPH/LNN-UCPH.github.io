@@ -27,6 +27,7 @@ website:
 interests:
   - Machine learning
   - Neuroimage analysis
+  - Aging
 
 social:
   - icon: twitter
