@@ -1,6 +1,6 @@
 ---
 title: "BrainDrugs - WP5: Mining structural MRI data in Epilepsy"
-position: 3
+position: 1
 type: "project"
 ---
 
