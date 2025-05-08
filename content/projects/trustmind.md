@@ -10,15 +10,17 @@ The mental health system in Europe faces challenges, with extensive waiting time
 We aim to develop AI algorithms for mental health screening, specifically targeting Major Depressive Disorder (MDD), which affects up to 6.9% of the European population. The algorithms will help to reduce the waiting time for diagnosis and improve the overall efficiency of the mental health system.
 
 The research project is based on a collaboration between three senior scientists from different disciplines—neuroscience, AI as well as medicine—as well as two collaborators from the field of ethics.
+
+The TRUSTMIND project is anchored at the Image section of the Department of Computer Science and led by Assc. Prof. Melanie Ganz-Benjaminsen.
 </p>
 
-<h2>Co-applicants:</h2>
+<h3>Co-applicants:</h3>
 <ul>
   <li>Professor Merete Osler - Center for Clinical Research and Prevention at Bispebjerg and Frederiksberg Hospitals (CCRP-RH) and Institute of Public Health at the University of Copenhagen</li>
   <li>Professor Aasa Feragen - DTU Compute at Denmark's Technical University (DTU)</li>
 </ul>
 
-<h2>Partners:</h2>
+<h3>Partners:</h3>
 <ul>
   <li>Associate Professor Sune Hannibal Holm, Department of Food and Resource Economics, University of Copenhagen</li>
   <li>Associate Professor Katharina O'Cathair, LAW, University of Copenhagen</li>
