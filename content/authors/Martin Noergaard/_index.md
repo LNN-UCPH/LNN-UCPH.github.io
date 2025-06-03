@@ -18,6 +18,8 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
   - name: Department of Computer Science, University of Copenhagen
+  - name: Molecular Imaging Branch, National Institute of Mental Health, US
+  - name: Center for Reproducible Neuroscience, Stanford University, US
 
 website:
   - https://mnoergaard.github.io/
@@ -25,6 +27,18 @@ website:
 interests:
   - Machine learning
   - Neuroimage analysis
+  - Neuroinformatics
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/mnorgaard10/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=EMYkDoQAAAAJ&hl=en
+  - icon: globe
+    icon_pack: fas
+    link: https://mnoergaard.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
