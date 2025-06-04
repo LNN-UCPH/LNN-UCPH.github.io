@@ -10,7 +10,7 @@ last_name: Díaz i Calvete
 superuser: false
 
 # position
-position: 1
+position: 2
 
 # Role/position
 role: Research Assistant
