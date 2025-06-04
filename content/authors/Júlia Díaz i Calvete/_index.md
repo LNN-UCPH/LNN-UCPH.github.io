@@ -44,9 +44,9 @@ email: ''
 highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#  - Postdoctoral Fellows and PhD students
+user_groups:
+  - Research Assistant
 ---
+
 ### Website:
 - https://nru.dk/index.php/about-us/staff-list/
