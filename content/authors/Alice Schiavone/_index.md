@@ -24,7 +24,7 @@ social:
 email: 
 highlight_name: true
 user_groups:
-  - Research Assistant
+  - Research Assistants
 ---
 ### Website:
 - https://nru.dk/index.php/about-us/staff-list/98-other-research-staff/556-alice-schiavone
