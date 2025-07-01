@@ -25,9 +25,8 @@ website:
 interests:
   - Machine learning
   - Mental health
-  - Life course epidemiology
   - Time series modelling
-  - Disease prediction
+  - Risk prediction
   - Explainability
 
 social:
