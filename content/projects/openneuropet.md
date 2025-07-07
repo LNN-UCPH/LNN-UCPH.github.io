@@ -13,7 +13,7 @@ We here propose establishment of a PET data infrastructure called OpenNeuroPET. 
 The OpenNeuroPET project (DK) is funded by the Novo Nordisk Foundation as an infrastructure grant, led by Prof. Gitte Moos Knudsen and anchored at the Neurobiology Research Unit at the Copenhagen University Hospital/Rigshospitalet. We collaborate closely with the Molecular Imaging Branch at the National Institute of Mental Health (NIMH) on the project. 
 </p>
 
-<h3>Project participants (DK):</h3>
+<h4>Project participants:</h4>
 <ul>
   <li>Professor Gitte Moss Knudsen (PI), Neurobiology Research Unit, Copenhagen University Hospital/Rigshospitalet </li>
   <li>Associate Professor Melanie Ganz-Benjaminsen, Neurobiology Research Unit, Copenhagen University Hospital/Rigshospitalet</li>
@@ -21,7 +21,7 @@ The OpenNeuroPET project (DK) is funded by the Novo Nordisk Foundation as an inf
   <li>Assistant Professor Martin Nørgaard, Department of Computer Science, University of Copenhagen</li>
 </ul>
 
-<h3>Website</h3>
+<h4>Website</h4>
 <ul>
   <li><a href="https://openneuropet.github.io/">https://openneuropet.github.io/</a>
   </li>

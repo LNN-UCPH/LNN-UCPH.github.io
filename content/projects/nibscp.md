@@ -12,7 +12,7 @@ type: "project"
 The project will enable a mapping of typical and atypical brain development, as well as how brain development is connected to and predicts motor development in children. In addition, a Danish normative material of brain development in the 0-2 year age range will be established.
 </p>
 
-<h3>Project participants:</h3>
+<h4>Project participants:</h4>
 <ul>
     <li>Senior Researcher Kathrine Skak Madsen (PI), Danish Center for Magnetic Resonance (DRCMR), Hvidovre Hospital</li>
     <li>Associate Professor Melanie Ganz-Benjaminsen (Co-PI), Neurobiology Research Unit, Copenhagen University Hospital/Rigshospitalet</li>
@@ -20,7 +20,7 @@ The project will enable a mapping of typical and atypical brain development, as 
 </ul>
 plus additional members at <a href="https://www.drcmr.dk/group-members?groupid=73)">DRCMR</a>
 
-<h3>Website</h3>
+<h4>Website</h4>
 <ul>
   <li><a href="https://www.hvidovrehospital.dk/afdelinger-og-klinikker/mr-forskningssektion/nibs-cp/Sider/default.aspx">https://www.hvidovrehospital.dk/afdelinger-og-klinikker/mr-forskningssektion/nibs-cp/Sider/default.aspx</a>
   </li>

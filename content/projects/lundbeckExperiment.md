@@ -13,7 +13,7 @@ This project aims to bring these problems out in the open: By using major depres
 This project is anchored in the group of Professor Aasa Feragen at DTU Compute, Denmark's Technical University and carried out in collaboration with Melanie Ganz from the Neurobiological Research Unit at Rigshospitalet, Denmark. 
 </p>
 
-<h3>Project participants:</h3>
+<h4>Project participants:</h4>
 <ul>
   <li>Professor Aasa Feragen (PI), DTU Compute, Denmark's Technical University (DTU)</li>
   <li>Associate Professor Melanie Ganz-Benjaminsen, Neurobiology Research Unit, Copenhagen University Hospital/Rigshospitalet</li>
