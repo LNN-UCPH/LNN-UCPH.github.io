@@ -14,16 +14,16 @@ The research project is based on a collaboration between three senior scientists
 The TRUSTMIND project is anchored at the Image section of the Department of Computer Science and led by Assc. Prof. Melanie Ganz-Benjaminsen.
 </p>
 
-<h3>Project participants:</h3>
+<h4>Project participants:</h4>
 <ul>
-  <li> Associate Professor Melanie Ganz-Benjaminsen, Department of Computer Science, University of Copenhagen</li>
+  <li> Associate Professor Melanie Ganz-Benjaminsen (PI), Department of Computer Science, University of Copenhagen</li>
   <li> Professor Merete Osler (Co-PI),Center for Clinical Research and Prevention at Bispebjerg and Frederiksberg Hospitals (CCRP-RH) and Institute of Public Health at the University of Copenhagen</li>
   <li>Professor Aasa Feragen (Co-PI), DTU Compute at Denmark's Technical University (DTU)</li>
   <li>Associate Professor Sune Hannibal Holm, Department of Food and Resource Economics, University of Copenhagen</li>
   <li>Associate Professor Katharina O'Cathair, LAW, University of Copenhagen</li>
 </ul>
 
-<h3>Website</h3>
+<h4>Website</h4>
 <ul>
   <li><a href="https://lundbeckfonden.com/news/120-million-dkk-interdisciplinary-brain-research/melanie-ganz-benjaminsen">https://lundbeckfonden.com/news/120-million-dkk-interdisciplinary-brain-research/melanie-ganz-benjaminsen</a>
   </li>
