@@ -10,10 +10,10 @@ last_name: Díaz i Calvete
 superuser: false
 
 # position
-position: 2
+position: 0
 
 # Role/position
-role: Research Assistant
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
