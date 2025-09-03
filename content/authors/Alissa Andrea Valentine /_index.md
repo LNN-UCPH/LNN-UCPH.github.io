@@ -10,7 +10,7 @@ last_name: Valentine
 superuser: false
 
 # position
-position: 1
+position: 2
 
 # Role/position
 role: PostDoc
@@ -26,12 +26,10 @@ website:
 
 interests:
   - Machine learning
-  - Natural language processing
-  - Large language models
-  - Real world data (EHR)
+  - NLP and LLMs
+  - RWD and EHR
   - Mental health
-  - Disease prediction
-  - Trustworthy and fair AI
+  - Trustworthy/fair AI
 
 social:
   - icon: bluesky
