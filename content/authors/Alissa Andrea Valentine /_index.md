@@ -34,12 +34,18 @@ interests:
   - Trustworthy and fair AI
 
 social:
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/alissavalentine.bsky.social
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alissa-valentine
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=TuLDeIoAAAAJ&hl=en
+  - icon: globe
+    icon_pack: fas
+    link: https://valentinealissa.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'alissa.valentine@di.ku.dk'
