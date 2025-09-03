@@ -10,7 +10,7 @@ last_name: Díaz i Calvete
 superuser: false
 
 # position
-position: 2
+position: 1
 
 # Role/position
 role: Alumni
