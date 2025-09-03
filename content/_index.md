@@ -32,9 +32,9 @@ sections:
       user_groups:
           - Research Scientists
           - Postdoctoral Fellows and PhD students
+          - Research Assistants
           - Collaborators
           - Alumni
-          - Research Assistants
       sort_by: Params.position
       sort_ascending: true
     design:
