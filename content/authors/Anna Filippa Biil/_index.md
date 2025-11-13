@@ -4,7 +4,7 @@ first_name: Anna Filippa
 last_name: Biil
 superuser: false
 position: 1
-role: Research Assistant
+role: Master’s Student
 organizations:
   - name: Department of Computer Science, University of Copenhagen
 website:
