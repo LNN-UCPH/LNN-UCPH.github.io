@@ -2,7 +2,7 @@
 title: 'Different preprocessing strategies lead to different conclusions: a [11C]
   DASB-PET reproducibility study'
 authors:
-- Martin Noergaard
+- Martin Norgaard
 - Melanie Ganz
 - Claus Svarer
 - Vibe G Frokjaer

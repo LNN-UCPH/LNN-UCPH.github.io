@@ -2,7 +2,7 @@
 title: The impact of preprocessing pipeline choice in univariate and multivariate
   analyses of pet data
 authors:
-- Martin Noergaard
+- Martin Norgaard
 - Douglas N Greve
 - Claus Svarer
 - Stephen C Strother

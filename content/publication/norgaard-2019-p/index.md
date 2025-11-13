@@ -2,7 +2,7 @@
 title: 'P. 263 The impact of different preprocessing strategies in positron emission
   tomography: a [11C] DASB Study'
 authors:
-- Martin Noergaard
+- Martin Norgaard
 - M Ganz
 - C Svarer
 - VG Frokjaer

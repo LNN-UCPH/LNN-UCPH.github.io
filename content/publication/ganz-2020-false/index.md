@@ -2,7 +2,7 @@
 title: False positive rates in positron emission tomography (PET) voxelwise analyses
 authors:
 - Melanie Ganz
-- Martin Noergaard
+- Martin Norgaard
 - Vincent Beliveau
 - Claus Svarer
 - Gitte M Knudsen

@@ -4,7 +4,7 @@ title: Characterisation of children's head motion for Magnetic Resonance Imaging
 authors:
 - Hannah Eichhorn
 - Andreea-Veronica Vascan
-- Martin Noergaard
+- Martin Norgaard
 - Andreas H Ellegaard
 - Jakob M Slipsager
 - Sune Høgild Keller

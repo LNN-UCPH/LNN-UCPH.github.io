@@ -2,7 +2,7 @@
 title: Quantifying the impact of preprocessing strategies on statistical analyses
 authors:
 - Brice Ozenne
-- Martin Noergaard
+- Martin Norgaard
 - Cyril Pernet
 - Melanie Ganz
 date: '2024-01-01'

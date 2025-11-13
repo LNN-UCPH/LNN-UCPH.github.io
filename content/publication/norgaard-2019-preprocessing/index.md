@@ -2,7 +2,7 @@
 title: 'Preprocessing, prediction and significance: framework and application to brain
   imaging'
 authors:
-- Martin Noergaard
+- Martin Norgaard
 - Brice Ozenne
 - Claus Svarer
 - Vibe G Frokjaer

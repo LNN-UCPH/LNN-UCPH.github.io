@@ -4,7 +4,7 @@ authors:
 - Douglas N Greve
 - Martin Schain
 - Melanie Ganz
-- Martin Noergaard
+- Martin Norgaard
 - Claus Svarer
 - Gitte M Knudsen
 date: '2020-01-01'

@@ -2,7 +2,7 @@
 title: 'A Potential Biomarker of Neuroinflammation'
 authors:
 - Xuefeng Yan
-- Martin Noergaard
+- Martin Norgaard
 - Cheryl L Morse
 - Jeih-san Liow
 - Jinsoo Hong
