@@ -4,7 +4,7 @@ position: 1
 type: "project"
 ---
 
-[TRUSTMIND website](https://lundbeckfonden.com/news/120-million-dkk-interdisciplinary-brain-research/melanie-ganz-benjaminsen) 
+[TRUSTMIND website](https://trustmindproject.github.io/) 
 
 AI algorithms for mental health screening based on a collaboration between experts in AI, neuroscience, medicine and ethics.
 
@@ -31,5 +31,8 @@ Participants
 - Professor Aasa Feragen (Co-PI), DTU Compute at Denmark's Technical University (DTU)
 - Associate Professor Sune Hannibal Holm, Department of Food and Resource Economics, University of Copenhage
 - Associate Professor Katharina O'Cathair, LAW, University of Copenhagen
+- PostDoc Alissa Valentine, Department of Computer Science, University of Copenhagen
+- Postdoc Olalekan Joseph Akintande, DTU Compute, Denmark’s Technical University (DTU)
+- PostDoc Helen Coupland, Neurobiology Research Unit, Copenhagen University Hospital/Rigshospitalet
 
 </details>

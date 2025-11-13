@@ -31,7 +31,7 @@ Participants
 - Senior Researcher Kathrine Skak Madsen (PI), Danish Center for Magnetic Resonance (DRCMR), Hvidovre Hospital
 - Associate Professor Melanie Ganz-Benjaminsen (Co-PI), Neurobiology Research Unit, Copenhagen University Hospital/Rigshospitalet
 - PostDoc Maddy Wyburd, Department of Computer Science, University of Copenhagen
-plus additional members at [DRCMR](https://www.drcmr.dk/group-members?groupid=73).
+plus additional members at [DRCMR](https://www.drcmr.dk/nibs-cp).
 
 </details>
 
