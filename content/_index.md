@@ -22,7 +22,6 @@ sections:
           <li>Explainable AI</li>
           <li>Neuroinformatics</li>
         </ul>
-
   - block: people
     id: people
     content:
