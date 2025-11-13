@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: hero
-    id: about 
+    id: about
     content:
       image:
         filename: lnn-logo.png
@@ -22,7 +22,6 @@ sections:
           <li>Explainable AI</li>
           <li>Neuroinformatics</li>
         </ul>
-
   - block: people
     id: people
     content:
@@ -30,11 +29,11 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Research Scientists
-          - Postdoctoral Fellows and PhD students
-          - Collaborators
-          - Alumni
-          - Research Assistants
+        - Research Scientists
+        - Postdoctoral Fellows and PhD students
+        - Research Assistants and Master's students
+        - Collaborators
+        - Alumni
       sort_by: Params.position
       sort_ascending: true
     design:
@@ -53,12 +52,11 @@ sections:
     id: publications
     view: citation
     content:
-      title: Publications 
-      subtitle: ''
+      title: Publications
+      subtitle: ""
       text:
       filters:
         tags: publication
     sort_by: date
     sort_ascending: false
-  
 ---

@@ -10,10 +10,10 @@ last_name: Díaz i Calvete
 superuser: false
 
 # position
-position: 2
+position: 1
 
 # Role/position
-role: Research Assistant
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Research Assistants
+  - Alumni
 ---
 
 ### Website:

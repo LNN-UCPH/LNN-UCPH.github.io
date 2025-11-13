@@ -21,10 +21,12 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=_Z8m-WIAAAAJ&hl=en
-email: 
+email:
 highlight_name: true
 user_groups:
-  - Research Assistants
+  - Research Assistants and Master's students
 ---
+
 ### Website:
+
 - https://nru.dk/index.php/about-us/staff-list/98-other-research-staff/556-alice-schiavone
