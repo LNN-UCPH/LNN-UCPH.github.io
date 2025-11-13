@@ -2,7 +2,7 @@
 title: 'Cerebral serotonin transporter measurements with [11C] DASB: a review on acquisition
   and preprocessing across 21 PET centres'
 authors:
-- Martin Nørgaard
+- Martin Noergaard
 - Melanie Ganz
 - Claus Svarer
 - Ling Feng

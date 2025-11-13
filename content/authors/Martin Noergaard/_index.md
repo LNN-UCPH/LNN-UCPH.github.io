@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Martin Norgaard
+title: Martin Noergaard
 
 # Full Name (for SEO)
 first_name: Martin
-last_name: Norgaard
+last_name: Noergaard
 
 # Is this the primary user of the site?
 superuser: false
@@ -51,5 +51,3 @@ highlight_name: true
 user_groups:
   - Research Scientists
 ---
-### Website:
-- https://mnoergaard.github.io/

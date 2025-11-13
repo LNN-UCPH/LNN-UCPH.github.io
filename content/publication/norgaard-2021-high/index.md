@@ -2,7 +2,7 @@
 title: A high-resolution in vivo atlas of the human brain's benzodiazepine binding
   site of GABAA receptors
 authors:
-- Martin Nørgaard
+- Martin Noergaard
 - Vincent Beliveau
 - Melanie Ganz
 - Claus Svarer

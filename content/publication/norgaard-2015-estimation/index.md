@@ -2,7 +2,7 @@
 title: 'Estimation of Regional Seasonal Variations in SERT-levels using the FreeSurfer
   PET pipeline: a reproducibility study'
 authors:
-- Martin Nørgaard
+- Martin Noergaard
 - Melanie Ganz
 - Claus Svarer
 - Vincent Beliveau

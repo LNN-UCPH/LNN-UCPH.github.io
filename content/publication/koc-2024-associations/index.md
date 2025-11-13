@@ -3,7 +3,7 @@ title: 'Associations between behavioral and emotional problems and brain morphol
   in early adolescence: A neuroimaging study using the NRU Serotonin Atlas'
 authors:
 - Dogukan Koc
-- Martin Nørgaard
+- Martin Noergaard
 - Melanie Ganz
 - Ryan Muetzel
 - Hanan El Marroun
