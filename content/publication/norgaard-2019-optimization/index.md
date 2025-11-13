@@ -2,7 +2,7 @@
 title: 'Optimization of preprocessing strategies in positron emission tomography (PET)
   neuroimaging: a [11C] DASB PET study'
 authors:
-- Martin Noergaard
+- Martin Norgaard
 - Melanie Ganz
 - Claus Svarer
 - Vibe G Frokjaer

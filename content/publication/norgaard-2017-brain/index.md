@@ -2,7 +2,7 @@
 title: 'Brain Networks Implicated in Seasonal Affective Disorder: A Neuroimaging PET
   Study of the Serotonin Transporter'
 authors:
-- Martin Noergaard
+- Martin Norgaard
 - M Ganz
 - C Svarer
 - PM Fisher

@@ -7,7 +7,7 @@ authors:
 - Ross D Markello
 - Kelly Smart
 - Sylvia ML Cox
-- Martin Noergaard
+- Martin Norgaard
 - Vincent Beliveau
 - Yanjun Wu
 - Jean-Dominique Gallezot
