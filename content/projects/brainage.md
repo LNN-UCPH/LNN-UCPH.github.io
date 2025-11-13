@@ -10,6 +10,7 @@ Development of biomarkers capable of robustly capturing age-related biological c
 <summary>
 Description
 </summary>
+
 Aging is associated with a wide range of molecular and structural changes throughout an individual's lifespan, resulting in the deterioration of physical abilities and increased risk of disease. In the brain, aging results in cognitive decline and predisposes to neurodegenerative disorders like Alzheimer’s disease and Parkinson’s disease. Therefore, developing biomarkers capable of robustly capturing age-related biological changes is necessary to understand the pathophysiology of various disorders and potentially assess the effects of interventions that target aging.
 
 We aim to validate existing biomarkers of brain aging on large datasets, focusing on test-retest reliability and construct validity. Both are important and need to be established before application in clinical trials.
@@ -24,6 +25,10 @@ Additionally, we will develop new biomarkers of aging using machine learning and
 <summary>
 Participants
 </summary>
-- Participant
-- Participant
+
+- Led by Pontus Plavén-Sigray, PhD (Karolinska Institutet)
+- Ruben P. Dörfel (Karolinska Institutet, NRU, UCPH)
+- Assoc. Professor Melanie Ganz (NRU, UCPH)
+- Jonas Svensson, PhD (Karolinska Institutet)
+
 </details>
