@@ -17,5 +17,8 @@ main:
   - name: Publications
     url: "/publication"
     weight: 4
+  - name: Handbook
+    url: "https://lnn-ucph.github.io/LNN-UCPH-Handbook/"
+    weight: 5
 
 
