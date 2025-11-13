@@ -16,8 +16,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/anna-filippa-biil-60a4562ba
-email: 
+email:
 highlight_name: true
 user_groups:
-  - Research Assistants
+  - Research Assistants and Master's students
 ---
