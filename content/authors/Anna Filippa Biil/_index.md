@@ -3,8 +3,8 @@ title: Anna Filippa Biil
 first_name: Anna Filippa
 last_name: Biil
 superuser: false
-position: 1
-role: Master’s Student
+position: 2
+role: Alumni
 organizations:
   - name: Department of Computer Science, University of Copenhagen
 website:
