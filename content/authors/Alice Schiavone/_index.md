@@ -3,17 +3,18 @@ title: Alice Schiavone
 first_name: Alice
 last_name: Schiavone
 superuser: false
-position: 1
-role: Research Assistant
+position: 3
+role: PhD Student
 organizations:
-  - name: Neurobiology Research Unit, Copenhagen University Hospital Rigshospitalet
   - name: Department of Computer Science, University of Copenhagen
+  - name: Neurobiology Research Unit, Copenhagen University Hospital Rigshospitalet
 website:
-  - https://nru.dk/index.php/about-us/staff-list/98-other-research-staff/556-alice-schiavone
+  - https://aliswh.github.io/
 interests:
   - Machine learning
   - Natural Language Processing
   - Neuroimage analysis
+  - Trustworthy AI
 social:
   - icon: linkedin
     icon_pack: fab
@@ -24,9 +25,9 @@ social:
 email:
 highlight_name: true
 user_groups:
-  - Research Assistants and Master's students
+  - Postdoctoral Fellows and PhD students
 ---
 
 ### Website:
 
-- https://nru.dk/index.php/about-us/staff-list/98-other-research-staff/556-alice-schiavone
+- https://aliswh.github.io/
