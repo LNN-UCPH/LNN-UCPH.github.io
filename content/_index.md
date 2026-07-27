@@ -35,6 +35,7 @@ sections:
         - Research Assistants and Master's students
         - Collaborators
         - Alumni
+        - Visiting Students
       sort_by: Params.position
       sort_ascending: true
     design:
