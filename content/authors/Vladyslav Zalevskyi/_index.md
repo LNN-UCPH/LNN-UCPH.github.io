@@ -13,7 +13,7 @@ superuser: false
 position: 5
 
 # Role/position
-role: Visiting Students
+role: Visiting Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,8 @@ organizations:
   - name: Lausanne University Hospital (CHUV)
   - name: Department of Computer Science, University of Copenhagen
 
-website: https://github.com/vladzalevskyi
+website:
+  - https://github.com/vladzalevskyi
 
 
 interests:
@@ -48,5 +49,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visiting Students
+  - Visiting Student
 ---
