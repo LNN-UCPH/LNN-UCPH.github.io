@@ -34,8 +34,8 @@ sections:
         - Postdoctoral Fellows and PhD students
         - Research Assistants and Master's students
         - Collaborators
-        - Alumni
         - Visiting Student
+        - Alumni
       sort_by: Params.position
       sort_ascending: true
     design:
