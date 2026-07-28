@@ -13,7 +13,7 @@ superuser: false
 position: 1
 
 # Role/position
-role: PostDoc
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
