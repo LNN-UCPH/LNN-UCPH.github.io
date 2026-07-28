@@ -4,7 +4,7 @@ first_name: August
 last_name: Toft Bentsen
 superuser: false
 position: 6
-role: Master's Student
+role: Alumni
 organizations:
   - name: Master of Science (MSc) in Health Informatics, SUND, University of Copenhagen
 website:
