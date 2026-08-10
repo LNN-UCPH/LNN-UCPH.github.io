@@ -13,7 +13,7 @@ superuser: false
 position: 4
 
 # Role/position
-role: Master's Student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
