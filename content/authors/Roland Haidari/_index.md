@@ -10,7 +10,7 @@ last_name: Haidari
 superuser: false
 
 # position
-position: 5
+position: 6
 
 # Role/position
 role: Alumni
@@ -44,5 +44,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Master's students
+  - Alumni
 ---
