@@ -23,16 +23,13 @@ The research project is based on a collaboration between three senior scientists
 
 <details>
 <summary>
-Participants
+Participants:
 </summary>
 
 - Associate Professor Melanie Ganz-Benjaminsen (PI), Department of Computer Science, University of Copenhagen
-- Professor Merete Osler (Co-PI),Center for Clinical Research and Prevention at Bispebjerg and Frederiksberg Hospitals (CCRP-RH) and Institute of Public Health at the University of Copenhagen
-- Professor Aasa Feragen (Co-PI), DTU Compute at Denmark's Technical University (DTU)
-- Associate Professor Sune Hannibal Holm, Department of Food and Resource Economics, University of Copenhage
-- Associate Professor Katharina O'Cathair, LAW, University of Copenhagen
 - PostDoc Alissa Valentine, Department of Computer Science, University of Copenhagen
-- Postdoc Olalekan Joseph Akintande, DTU Compute, Denmark’s Technical University (DTU)
-- PostDoc Helen Coupland, Neurobiology Research Unit, Copenhagen University Hospital/Rigshospitalet
+- PhD student Alice Schiavone, Department of Computer Science, University of Copenhagen
+plus additional members listed on the [TRUSTMIND website](https://trustmindproject.github.io/) 
+
 
 </details>

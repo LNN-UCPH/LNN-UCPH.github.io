@@ -1,6 +1,6 @@
 ---
 title: "BrainDrugs - WP5: Mining structural MRI data in Epilepsy"
-position: 1
+position: 4
 type: "project"
 ---
 
@@ -28,6 +28,7 @@ Participants
 
 - Led by Assoc. Prof. Melanie Ganz and Prof. Gitte M. Knudsen (NRU)
 - Llucia Coll Benejam, postdoctoral researcher (NRU)
-- Alice Schiavone, research assistant (NRU, UCPH)
+- Alice Schiavone, earlier research assistant (NRU, UCPH)
+All BrainDrugs participants are listed on the [BrainDrugs website](https://braindrugs.nru.dk/) 
 
 </details>
