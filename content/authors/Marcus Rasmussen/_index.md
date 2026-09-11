@@ -10,10 +10,10 @@ last_name: Rasmussen
 superuser: false
 
 # position
-position: 3
+position: 4
 
 # Role/position
-role: Master's Student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -44,5 +44,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Master's students
+  - Alumni
 ---

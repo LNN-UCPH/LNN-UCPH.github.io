@@ -1,6 +1,6 @@
 ---
 title: "The OpenNeuroPET Archive - A Molecular Neuroimaging Archive"
-position: 1
+position: 2
 type: "project"
 ---
 
@@ -30,5 +30,6 @@ Participants
 - Associate Professor Melanie Ganz-Benjaminsen, Neurobiology Research Unit, Copenhagen University Hospital/Rigshospitalet
 - Senior Researcher Cyril Pernet, Neurobiology Research Unit, Copenhagen University Hospital/Rigshospitalet
 - Assistant Professor Martin Nørgaard, Department of Computer Science, University of Copenhagen
+plus additional members listed on [OpenNeuroPET website](https://openneuropet.github.io/)
 
 </details>
