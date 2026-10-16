@@ -57,4 +57,4 @@ user_groups:
   - Research Scientists
 ---
 ### Website:
-- https://sites.google.com/view/melanieganz/home 
+- https://melanieganz.github.io/ 
